@@ -1,0 +1,13 @@
+Package: com.PinchSoft.AppSync31
+Version: 1.0.1
+Architecture: iphoneos-arm
+Maintainer: AJELECTRIC <pinchsofttech@gmail.com>
+Filename: /appsync31-1.0.1.deb
+Size: 296,542
+MD5sum: 534080636c26e40d3efbdf195f3bfdfb
+SHA1: 2e3be3668f26c9d4ac7b796042aa7b05184fe4ae
+SHA256: c0975018be2f1fe73eaeadce9a3c4ead17ab01b08eb41bd11a82b2f83c60fb70
+Section: Tweaks
+Description: Get Unsigned Apps Working With AppSync.
+Author: AJELECTRIC From Pinch Soft (pinchsofttech@gmail.com)
+Name: AppSync 3.1 For iOS 3+
